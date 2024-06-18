@@ -1,0 +1,52 @@
+
+.my-custom-player {
+    background: #1f1f1f;
+    color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+}
+
+
+.my-custom-player .rhap_progress-indicator {
+    background: #fff;
+}
+
+.my-custom-player .rhap_progress-filled {
+    background: #4caf50;
+}
+
+.my-custom-player .rhap_progress {
+    background: rgba(255, 255, 255, 0.1);
+}
+
+.my-custom-player .rhap_controls-button {
+    color: #fff;
+}
+
+.my-custom-player .rhap_controls-button svg {
+    fill: #fff;
+}
+
+.my-custom-player .rhap_volume-button {
+    color: #fff;
+}
+
+.my-custom-player .rhap_volume-button svg {
+    fill: #fff;
+}
+
+.my-custom-player .rhap_volume-indicator {
+    background: #fff;
+}
+
+.my-custom-player .rhap_volume-filled {
+    background: #4caf50;
+}
+
+.my-custom-player .rhap_additional-controls {
+    display:grid;
+}
+
+.my-custom-player .rhap_main-controls-button {
+    font-size: 2rem;
+}
